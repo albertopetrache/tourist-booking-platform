@@ -1,4 +1,4 @@
-###E-Tourism Platform (Work in Progress)
+### E-Tourism Platform (Work in Progress)
 
 This project is a full-stack e-tourism platform currently under development.
 
